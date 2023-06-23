@@ -1,7 +1,9 @@
 ---
-layout: page
-title: 关于
-permalink: /about/
----
-
-这是一个关于页面，请编辑about.md以介绍你的博客。
+layout: post
+title: 博客测试
+date: 2023-06-23
+Author: 毛掌飞
+categories: 
+tags: [sample, document]
+comments: true
+--- 
